@@ -1,6 +1,6 @@
 ﻿<settings>
-  <setting name="new-image-width" type="System.Int32">64</setting>
-  <setting name="new-image-height" type="System.Int32">64</setting>
+  <setting name="new-image-width" type="System.Int32">1846</setting>
+  <setting name="new-image-height" type="System.Int32">460</setting>
   <setting name="default-image-type" type="System.String">png</setting>
   <setting name="dock-layers-minimized" type="System.Boolean">False</setting>
   <setting name="dock-history-minimized" type="System.Boolean">False</setting>
@@ -14,8 +14,8 @@
   <setting name="menubar-shown" type="System.Boolean">False</setting>
   <setting name="statusbar-shown" type="System.Boolean">True</setting>
   <setting name="toolbox-shown" type="System.Boolean">True</setting>
-  <setting name="last-dialog-directory" type="System.String">file:///home/raphaelk/coding/SillyHungerGames/docs/docs/assets/img/minecraft</setting>
-  <setting name="last-selected-tool" type="System.String">MagicWandTool</setting>
+  <setting name="last-dialog-directory" type="System.String">file:///home/raphaelk/coding/SillyHungerGames/websites/sc-assets/img</setting>
+  <setting name="last-selected-tool" type="System.String">MoveSelectedTool</setting>
   <setting name="primary-color" type="System.String">FF000000</setting>
   <setting name="secondary-color" type="System.String">FFFFFFFF</setting>
   <setting name="recently-used-colors" type="System.String">FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6,FFE6E6E6</setting>
@@ -31,5 +31,6 @@
   <setting name="freeformshapetool-brush-width" type="System.Int32">2</setting>
   <setting name="clonestamptool-brush-width" type="System.Int32">2</setting>
   <setting name="recolortool-brush-width" type="System.Int32">2</setting>
-  <setting name="new-image-bg" type="Pinta.BackgroundType">White</setting>
+  <setting name="window-size-width" type="System.Int32">936</setting>
+  <setting name="window-size-height" type="System.Int32">1005</setting>
 </settings>
